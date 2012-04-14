@@ -180,7 +180,7 @@
   See \url{http://www.polynomiography.com/}.
 
   A few examples of animations generated with this tool may be seen at
-  \url{http://pinard.progiciels-bpi.ca/plaisirs/dessins/NRart.html}.
+  \url{http://pinard.progiciels-bpi.ca/notes/Animations.html}.
 
   Others have done similar works, using other languages.  For example,
   see \url{http://www.chiark.greenend.org.uk/~sgtatham/newton/}.
