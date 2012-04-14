@@ -1,10 +1,10 @@
 Package: NRart
 Title: Newton-Raphson art
-Version: 0.0
+Version: 0.1
 Author: François Pinard
 Description:
   Produce 2-D images or movies out of mathematical functions, by
   applying Newton-Raphson method to each point of a complex plane.
 Maintainer: François Pinard <pinard@iro.umontreal.ca>
 License: GPL
-Packaged: Fri May 13 18:09:43 2005; pinard
+Packaged: Mon Jul 30 10:34:53 2007; pinard

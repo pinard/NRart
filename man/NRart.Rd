@@ -180,15 +180,15 @@
   See \url{http://www.polynomiography.com/}.
 
   A few examples of animations generated with this tool may be seen at
-  \url{http://pinard.progiciels-bpi.ca/plaisirs/animations/}.
+  \url{http://pinard.progiciels-bpi.ca/plaisirs/dessins/NRart.html}.
 
   Others have done similar works, using other languages.  For example,
   see \url{http://www.chiark.greenend.org.uk/~sgtatham/newton/}.
 }
 \author{Francois Pinard \email{pinard@iro.umontreal.ca}}
 \seealso{
-  \code{\link{image}}
-  \code{\link{D}}
+  \code{\link[stats]{deriv}}
+  \code{\link[graphics]{image}}
 }
 \examples{
   nr.image(x^3 - sqrt(x) - 1, points=300)
